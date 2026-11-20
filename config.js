@@ -1,1 +1,1 @@
-window.ADONA_CONFIG = {"whatsapp": "22953538609", "email": "quentinadonai@gmail.com"};
+window.ADONA_CONFIG={whatsapp:"22953538609",email:"quentinadonai@gmail.com"};
