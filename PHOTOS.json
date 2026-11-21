@@ -1,0 +1,37 @@
+{
+  "web": {
+    "url": "https://d2u1z1lopyfwlx.cloudfront.net/thumbnails/b5f72553-7d39-59e1-a444-e78e9fd645a4/ff65e6a8-7fa7-5800-a68d-40c87b06ce82.jpg",
+    "description": "Ordinateur portable présentant un site web sur un bureau",
+    "source": "https://www.pexels.com/photo/laptop-on-a-wooden-table-with-the-design-business-website-on-the-screen-7181184/"
+  },
+  "design": {
+    "url": "https://d2u1z1lopyfwlx.cloudfront.net/thumbnails/3ca5bfdf-d0fb-58da-a09b-e6cca7609a52/ff65e6a8-7fa7-5800-a68d-40c87b06ce82.jpg",
+    "description": "Nuancier de couleurs pour un travail de création graphique",
+    "source": "https://www.pexels.com/photo/palette-of-colors-14299950/"
+  },
+  "commerce": {
+    "url": "https://d2u1z1lopyfwlx.cloudfront.net/thumbnails/10489139-fc66-50c0-bb0f-0d1cf1defa02/ff65e6a8-7fa7-5800-a68d-40c87b06ce82.jpg",
+    "description": "Préparation soignée d’un emballage de produit",
+    "source": "https://www.pexels.com/photo/healthy-marketing-technology-brown-7309468/"
+  },
+  "video": {
+    "url": "https://d2u1z1lopyfwlx.cloudfront.net/thumbnails/01d5c861-d40d-51da-87ec-cfa5b74d1a36/ff65e6a8-7fa7-5800-a68d-40c87b06ce82.jpg",
+    "description": "Écran présentant une interface de montage vidéo",
+    "source": "https://www.pexels.com/photo/professional-video-editing-interface-on-computer-screen-31718971/"
+  },
+  "print": {
+    "url": "https://d2u1z1lopyfwlx.cloudfront.net/thumbnails/bf1b278f-fe87-5576-941c-8657b8287cbd/ff65e6a8-7fa7-5800-a68d-40c87b06ce82.jpg",
+    "description": "Travail sur une presse d’impression",
+    "source": "https://www.pexels.com/photo/close-up-of-old-fashioned-printing-machinery-6620989/"
+  },
+  "restaurant": {
+    "url": "https://d2u1z1lopyfwlx.cloudfront.net/thumbnails/c5e93909-94e0-57c5-bafe-b288df28ca3a/ff65e6a8-7fa7-5800-a68d-40c87b06ce82.jpg",
+    "description": "Préparation d’une table dans un restaurant",
+    "source": "https://www.pexels.com/photo/waiter-setting-a-table-in-a-restaurant-17316990/"
+  },
+  "digital": {
+    "url": "https://d2u1z1lopyfwlx.cloudfront.net/thumbnails/f155aeec-6c33-582a-939a-cc513841b272/ff65e6a8-7fa7-5800-a68d-40c87b06ce82.jpg",
+    "description": "Travail de recherche visuelle sur ordinateur",
+    "source": "https://www.pexels.com/photo/photo-of-person-using-laptop-for-graphic-designs-4348404/"
+  }
+}
